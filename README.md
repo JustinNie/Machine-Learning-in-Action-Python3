@@ -34,4 +34,9 @@ This is the source code of the book Machine Learning in Action authored by Peter
 **adaboost.py:** include some basic functions about the AdaBoost algorithm.
 **test_adaboost.py:** test the example in the book based on AdaBoost algorithm.
 
+###Chapter 8: Predicting Numeric Values: Regression
+**regression.py:** include some basic functions about the linear regression algorithm.
+**regression_test.py:** test the example in chapter 8
+**abalone.py:** estimate the age of abalone.
+
 
