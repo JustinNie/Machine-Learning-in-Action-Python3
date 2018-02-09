@@ -39,4 +39,43 @@ This is the source code of the book Machine Learning in Action authored by Peter
 **regression_test.py:** test the example in chapter 8
 **abalone.py:** estimate the age of abalone.
 
+###Chapter 9: Tree-Based Regression
+**regression_tree.py:** include some basic functions about the regression tree.
+**regression_tree_test.py:** test for the example in the book.
+**example.py:** comparing tree methods to standard regression.
+
+###Chapter10: Grouping Unlabeled Items Using K-Means Clustering
+**kmeans.py:** include some basic functions about k-means clustering.
+**test_kmeans.py:** test for the example in the book.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
