@@ -48,7 +48,9 @@ This is the source code of the book Machine Learning in Action authored by Peter
 **kmeans.py:** include some basic functions about k-means clustering.
 **test_kmeans.py:** test for the example in the book.
 
-
+###Chapter11: Association Analysis with the Apriori Algorithm
+**apriori.py:** include some basic functions about Apriori algorithm.
+**test_apriori.py:** test for the example in the book.
 
 
 
