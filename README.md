@@ -52,6 +52,10 @@ This is the source code of the book Machine Learning in Action authored by Peter
 **apriori.py:** include some basic functions about Apriori algorithm.
 **test_apriori.py:** test for the example in the book.
 
+###Chapter12:  Efficiently Finding Frequent Itemsets with FP-Growth
+**fpgrowth.py:** include some basic functions abou FP_Growth.
+**test_fpgrowth.py:** test for the example in the book.
+**kosarak.py:** kosarak example.
 
 
 
