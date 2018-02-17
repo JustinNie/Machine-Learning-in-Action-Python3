@@ -57,7 +57,16 @@ This is the source code of the book Machine Learning in Action authored by Peter
 **test_fpgrowth.py:** test for the example in the book.
 **kosarak.py:** kosarak example.
 
+###Chapter13:  Using Principal Component Analysis to Simplify Data
+**pca.py:** include some basic functions about PCA.
+**test_pca.py:** test the example in the book.
+**example.py:**  using PCA to reduce the dimensionality of semiconductor manufacturing data.
 
+###Chapter14: Simplifying Data with the Singular Value Decomposition
+**svd.py:** include some basic functions about the SVD.
+**test_svd.py:** test the example in the book.
+**recommand.py:** example: a restaurant dish recommendation engine.
+**compression.py:** example: image compression with the SVD.
 
 
 
