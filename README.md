@@ -4,6 +4,7 @@ This is the source code of the book *Machine Learning in Action* authored by Pet
 
 ## System Information
 **Operating System:** Mac OS High Sierra
+
 **Programming Language:** Python 3.6.4
 
 
